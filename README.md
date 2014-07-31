@@ -1,4 +1,4 @@
-Presentations
-=============
+Collection of all my presentations
+==================================
 
-Collection of all my Presentations
+This is a placeholder repo, which contains all my presentation.
